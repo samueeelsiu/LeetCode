@@ -31,12 +31,14 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samueeelsiu/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/samueeelsiu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/samueeelsiu/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samueeelsiu/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/samueeelsiu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/samueeelsiu/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
