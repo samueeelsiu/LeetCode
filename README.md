@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/samueeelsiu/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0049-group-anagrams](https://github.com/samueeelsiu/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/samueeelsiu/LeetCode/tree/main/0072-edit-distance/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@
 | [0001-two-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samueeelsiu/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/samueeelsiu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0049-group-anagrams](https://github.com/samueeelsiu/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samueeelsiu/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samueeelsiu/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -74,9 +76,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/samueeelsiu/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samueeelsiu/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samueeelsiu/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/samueeelsiu/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
