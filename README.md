@@ -15,6 +15,7 @@
 | [0062-unique-paths](https://github.com/samueeelsiu/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/samueeelsiu/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/samueeelsiu/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -62,11 +63,13 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samueeelsiu/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +84,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samueeelsiu/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
