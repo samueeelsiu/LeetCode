@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/samueeelsiu/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0045-jump-game-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/samueeelsiu/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/samueeelsiu/LeetCode/tree/main/0072-edit-distance/) | Medium |
@@ -35,6 +36,7 @@
 | [0001-two-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samueeelsiu/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/samueeelsiu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0045-jump-game-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/samueeelsiu/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0064-minimum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -109,4 +111,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0045-jump-game-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 <!---LeetCode Topics End-->
