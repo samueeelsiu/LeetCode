@@ -70,6 +70,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samueeelsiu/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/samueeelsiu/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/samueeelsiu/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/samueeelsiu/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -93,6 +95,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samueeelsiu/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/samueeelsiu/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -127,4 +130,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/samueeelsiu/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/samueeelsiu/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/samueeelsiu/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
