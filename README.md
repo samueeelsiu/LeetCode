@@ -26,10 +26,12 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/samueeelsiu/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0075-sort-colors](https://github.com/samueeelsiu/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0189-rotate-array](https://github.com/samueeelsiu/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/samueeelsiu/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0189-rotate-array](https://github.com/samueeelsiu/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +57,7 @@
 | [0152-maximum-product-subarray](https://github.com/samueeelsiu/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samueeelsiu/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/samueeelsiu/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/samueeelsiu/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
