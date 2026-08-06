@@ -8,6 +8,7 @@
 | [0005-longest-palindromic-substring](https://github.com/samueeelsiu/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0049-group-anagrams](https://github.com/samueeelsiu/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/samueeelsiu/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0125-valid-palindrome](https://github.com/samueeelsiu/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0224-basic-calculator](https://github.com/samueeelsiu/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/samueeelsiu/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0075-sort-colors](https://github.com/samueeelsiu/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/samueeelsiu/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/samueeelsiu/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
