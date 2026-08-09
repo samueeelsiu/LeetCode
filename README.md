@@ -82,6 +82,7 @@
 | [0198-house-robber](https://github.com/samueeelsiu/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0283-move-zeroes](https://github.com/samueeelsiu/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/samueeelsiu/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/samueeelsiu/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/samueeelsiu/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Binary Search
