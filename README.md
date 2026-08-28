@@ -89,6 +89,7 @@
 | [0283-move-zeroes](https://github.com/samueeelsiu/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/samueeelsiu/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/samueeelsiu/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/samueeelsiu/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/samueeelsiu/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Binary Search
@@ -166,6 +167,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/samueeelsiu/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/samueeelsiu/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/samueeelsiu/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/samueeelsiu/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0763-partition-labels](https://github.com/samueeelsiu/LeetCode/tree/main/0763-partition-labels/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -274,6 +276,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/samueeelsiu/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
