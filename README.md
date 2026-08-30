@@ -14,6 +14,7 @@
 | [0058-length-of-last-word](https://github.com/samueeelsiu/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/samueeelsiu/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/samueeelsiu/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/samueeelsiu/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/samueeelsiu/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/samueeelsiu/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0224-basic-calculator](https://github.com/samueeelsiu/LeetCode/tree/main/0224-basic-calculator/) | Hard |
@@ -169,6 +170,7 @@
 | [0012-integer-to-roman](https://github.com/samueeelsiu/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/samueeelsiu/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/samueeelsiu/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/samueeelsiu/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samueeelsiu/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/samueeelsiu/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/samueeelsiu/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -282,6 +284,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samueeelsiu/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/samueeelsiu/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
