@@ -80,6 +80,7 @@
 | [0045-jump-game-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/samueeelsiu/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/samueeelsiu/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/samueeelsiu/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -116,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/samueeelsiu/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Tree
@@ -285,6 +287,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/samueeelsiu/LeetCode/tree/main/0067-add-binary/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
