@@ -43,6 +43,7 @@
 | [0011-container-with-most-water](https://github.com/samueeelsiu/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/samueeelsiu/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/samueeelsiu/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/samueeelsiu/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samueeelsiu/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/samueeelsiu/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/samueeelsiu/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -236,6 +237,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/samueeelsiu/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/samueeelsiu/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/samueeelsiu/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
