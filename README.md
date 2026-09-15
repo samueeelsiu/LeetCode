@@ -139,6 +139,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/samueeelsiu/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/samueeelsiu/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/samueeelsiu/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -151,6 +152,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/samueeelsiu/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/samueeelsiu/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/samueeelsiu/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -173,6 +175,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/samueeelsiu/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/samueeelsiu/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/samueeelsiu/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -223,6 +226,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/samueeelsiu/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
