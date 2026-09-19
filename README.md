@@ -51,6 +51,7 @@
 | [0141-linked-list-cycle](https://github.com/samueeelsiu/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/samueeelsiu/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/samueeelsiu/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/samueeelsiu/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/samueeelsiu/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0763-partition-labels](https://github.com/samueeelsiu/LeetCode/tree/main/0763-partition-labels/) | Medium |
@@ -196,6 +197,7 @@
 | [0141-linked-list-cycle](https://github.com/samueeelsiu/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/samueeelsiu/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/samueeelsiu/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/samueeelsiu/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/samueeelsiu/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/samueeelsiu/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -262,6 +264,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/samueeelsiu/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/samueeelsiu/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/samueeelsiu/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
