@@ -98,6 +98,7 @@
 | [0064-minimum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/samueeelsiu/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/samueeelsiu/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samueeelsiu/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/samueeelsiu/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
@@ -300,6 +301,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/samueeelsiu/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/samueeelsiu/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/samueeelsiu/LeetCode/tree/main/0136-single-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -406,6 +408,7 @@
 | [0039-combination-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/samueeelsiu/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/samueeelsiu/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/samueeelsiu/LeetCode/tree/main/0078-subsets/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
