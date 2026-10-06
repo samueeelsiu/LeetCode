@@ -17,6 +17,7 @@
 | [0067-add-binary](https://github.com/samueeelsiu/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/samueeelsiu/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/samueeelsiu/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/samueeelsiu/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/samueeelsiu/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/samueeelsiu/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0224-basic-calculator](https://github.com/samueeelsiu/LeetCode/tree/main/0224-basic-calculator/) | Hard |
@@ -99,6 +100,7 @@
 | [0074-search-a-2d-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/samueeelsiu/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/samueeelsiu/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/samueeelsiu/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samueeelsiu/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/samueeelsiu/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
@@ -136,6 +138,7 @@
 | [0054-spiral-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/samueeelsiu/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -156,6 +159,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/samueeelsiu/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/samueeelsiu/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
@@ -409,6 +413,7 @@
 | [0046-permutations](https://github.com/samueeelsiu/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/samueeelsiu/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/samueeelsiu/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/samueeelsiu/LeetCode/tree/main/0079-word-search/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
