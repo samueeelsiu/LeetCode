@@ -22,6 +22,7 @@
 | [0125-valid-palindrome](https://github.com/samueeelsiu/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/samueeelsiu/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/samueeelsiu/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/samueeelsiu/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0224-basic-calculator](https://github.com/samueeelsiu/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/samueeelsiu/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0763-partition-labels](https://github.com/samueeelsiu/LeetCode/tree/main/0763-partition-labels/) | Medium |
@@ -42,6 +43,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samueeelsiu/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samueeelsiu/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/samueeelsiu/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/samueeelsiu/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/samueeelsiu/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/samueeelsiu/LeetCode/tree/main/0198-house-robber/) | Medium |
 ## Two Pointers
@@ -114,6 +116,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/samueeelsiu/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/samueeelsiu/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/samueeelsiu/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0139-word-break](https://github.com/samueeelsiu/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/samueeelsiu/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samueeelsiu/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/samueeelsiu/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -223,6 +226,7 @@
 | [0127-word-ladder](https://github.com/samueeelsiu/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/samueeelsiu/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/samueeelsiu/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/samueeelsiu/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/samueeelsiu/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/samueeelsiu/LeetCode/tree/main/0146-lru-cache/) | Medium |
@@ -364,6 +368,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/samueeelsiu/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/samueeelsiu/LeetCode/tree/main/0139-word-break/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,4 +445,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/samueeelsiu/LeetCode/tree/main/0051-n-queens/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/samueeelsiu/LeetCode/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/samueeelsiu/LeetCode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
