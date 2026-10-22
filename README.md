@@ -132,6 +132,7 @@
 | [0875-koko-eating-bananas](https://github.com/samueeelsiu/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samueeelsiu/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/samueeelsiu/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
