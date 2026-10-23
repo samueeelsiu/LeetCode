@@ -47,6 +47,7 @@
 | [0139-word-break](https://github.com/samueeelsiu/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/samueeelsiu/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/samueeelsiu/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0279-perfect-squares](https://github.com/samueeelsiu/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@
 | [0070-climbing-stairs](https://github.com/samueeelsiu/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/samueeelsiu/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/samueeelsiu/LeetCode/tree/main/0224-basic-calculator/) | Hard |
+| [0279-perfect-squares](https://github.com/samueeelsiu/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/samueeelsiu/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/samueeelsiu/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Combinatorics
@@ -197,6 +199,7 @@
 | [0127-word-ladder](https://github.com/samueeelsiu/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/samueeelsiu/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/samueeelsiu/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -457,4 +460,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/samueeelsiu/LeetCode/tree/main/0139-word-break/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/samueeelsiu/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/samueeelsiu/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
