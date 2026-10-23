@@ -131,6 +131,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/samueeelsiu/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/samueeelsiu/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/samueeelsiu/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samueeelsiu/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/samueeelsiu/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
@@ -333,6 +334,7 @@
 | [0067-add-binary](https://github.com/samueeelsiu/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/samueeelsiu/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/samueeelsiu/LeetCode/tree/main/0136-single-number/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/samueeelsiu/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
