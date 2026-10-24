@@ -49,6 +49,7 @@
 | [0152-maximum-product-subarray](https://github.com/samueeelsiu/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/samueeelsiu/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/samueeelsiu/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/samueeelsiu/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@
 | [0239-sliding-window-maximum](https://github.com/samueeelsiu/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/samueeelsiu/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/samueeelsiu/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/samueeelsiu/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/samueeelsiu/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/samueeelsiu/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -147,6 +149,7 @@
 | [0074-search-a-2d-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samueeelsiu/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/samueeelsiu/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/samueeelsiu/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Matrix
@@ -470,4 +473,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/samueeelsiu/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/samueeelsiu/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
