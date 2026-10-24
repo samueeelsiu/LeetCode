@@ -26,6 +26,7 @@
 | [0224-basic-calculator](https://github.com/samueeelsiu/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/samueeelsiu/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0763-partition-labels](https://github.com/samueeelsiu/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [2409-count-days-spent-together](https://github.com/samueeelsiu/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/samueeelsiu/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@
 | [0224-basic-calculator](https://github.com/samueeelsiu/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0279-perfect-squares](https://github.com/samueeelsiu/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/samueeelsiu/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [2409-count-days-spent-together](https://github.com/samueeelsiu/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/samueeelsiu/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
