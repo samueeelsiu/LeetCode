@@ -139,6 +139,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/samueeelsiu/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/samueeelsiu/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samueeelsiu/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/samueeelsiu/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samueeelsiu/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/samueeelsiu/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -163,6 +164,7 @@
 | [0074-search-a-2d-matrix](https://github.com/samueeelsiu/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/samueeelsiu/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samueeelsiu/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/samueeelsiu/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samueeelsiu/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +211,7 @@
 | [0226-invert-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/samueeelsiu/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/samueeelsiu/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samueeelsiu/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +278,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/samueeelsiu/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samueeelsiu/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
