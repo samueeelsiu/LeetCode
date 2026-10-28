@@ -51,6 +51,7 @@
 | [0279-perfect-squares](https://github.com/samueeelsiu/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/samueeelsiu/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/samueeelsiu/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/samueeelsiu/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samueeelsiu/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/samueeelsiu/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samueeelsiu/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/samueeelsiu/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/samueeelsiu/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -165,6 +167,7 @@
 | [0079-word-search](https://github.com/samueeelsiu/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samueeelsiu/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/samueeelsiu/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +354,7 @@
 | [0078-subsets](https://github.com/samueeelsiu/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/samueeelsiu/LeetCode/tree/main/0136-single-number/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/samueeelsiu/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/samueeelsiu/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
