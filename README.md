@@ -75,6 +75,7 @@
 | [0234-palindrome-linked-list](https://github.com/samueeelsiu/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/samueeelsiu/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0763-partition-labels](https://github.com/samueeelsiu/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samueeelsiu/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@
 | [0485-max-consecutive-ones](https://github.com/samueeelsiu/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/samueeelsiu/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/samueeelsiu/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samueeelsiu/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/samueeelsiu/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samueeelsiu/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -169,6 +171,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/samueeelsiu/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/samueeelsiu/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samueeelsiu/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -294,6 +297,7 @@
 | [0148-sort-list](https://github.com/samueeelsiu/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/samueeelsiu/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samueeelsiu/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samueeelsiu/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Union-Find
