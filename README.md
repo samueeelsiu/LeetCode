@@ -150,6 +150,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/samueeelsiu/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/samueeelsiu/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/samueeelsiu/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/samueeelsiu/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/samueeelsiu/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samueeelsiu/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -276,6 +277,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/samueeelsiu/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/samueeelsiu/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0763-partition-labels](https://github.com/samueeelsiu/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/samueeelsiu/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/samueeelsiu/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -298,6 +300,7 @@
 | [0169-majority-element](https://github.com/samueeelsiu/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/samueeelsiu/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/samueeelsiu/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samueeelsiu/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Union-Find
@@ -429,6 +432,7 @@
 | [0076-minimum-window-substring](https://github.com/samueeelsiu/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/samueeelsiu/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/samueeelsiu/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/samueeelsiu/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/samueeelsiu/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Prefix Sum
