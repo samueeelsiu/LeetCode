@@ -27,6 +27,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/samueeelsiu/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0763-partition-labels](https://github.com/samueeelsiu/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [2409-count-days-spent-together](https://github.com/samueeelsiu/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/samueeelsiu/LeetCode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/samueeelsiu/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/samueeelsiu/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Dynamic Programming
