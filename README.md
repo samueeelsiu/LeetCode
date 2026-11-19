@@ -159,6 +159,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samueeelsiu/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/samueeelsiu/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/samueeelsiu/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/samueeelsiu/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/samueeelsiu/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/samueeelsiu/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
@@ -314,6 +315,7 @@
 | [0169-majority-element](https://github.com/samueeelsiu/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/samueeelsiu/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/samueeelsiu/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/samueeelsiu/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samueeelsiu/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -337,6 +339,7 @@
 | [0055-jump-game](https://github.com/samueeelsiu/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/samueeelsiu/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0763-partition-labels](https://github.com/samueeelsiu/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/samueeelsiu/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/samueeelsiu/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samueeelsiu/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
