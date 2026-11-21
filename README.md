@@ -28,6 +28,7 @@
 | [0763-partition-labels](https://github.com/samueeelsiu/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [2409-count-days-spent-together](https://github.com/samueeelsiu/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/samueeelsiu/LeetCode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/samueeelsiu/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/samueeelsiu/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/samueeelsiu/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Dynamic Programming
@@ -164,6 +165,7 @@
 | [2747-count-zero-request-servers](https://github.com/samueeelsiu/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/samueeelsiu/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/samueeelsiu/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/samueeelsiu/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/samueeelsiu/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samueeelsiu/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -219,6 +221,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/samueeelsiu/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/samueeelsiu/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/samueeelsiu/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -237,6 +240,7 @@
 | [0437-path-sum-iii](https://github.com/samueeelsiu/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/samueeelsiu/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/samueeelsiu/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/samueeelsiu/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samueeelsiu/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/samueeelsiu/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
@@ -295,6 +299,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/samueeelsiu/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0763-partition-labels](https://github.com/samueeelsiu/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/samueeelsiu/LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/samueeelsiu/LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/samueeelsiu/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
