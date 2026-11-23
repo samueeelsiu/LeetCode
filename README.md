@@ -98,6 +98,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/samueeelsiu/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/samueeelsiu/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samueeelsiu/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/samueeelsiu/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samueeelsiu/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2409-count-days-spent-together](https://github.com/samueeelsiu/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/samueeelsiu/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -158,6 +159,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/samueeelsiu/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/samueeelsiu/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/samueeelsiu/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/samueeelsiu/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/samueeelsiu/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samueeelsiu/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/samueeelsiu/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -434,6 +436,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/samueeelsiu/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/samueeelsiu/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/samueeelsiu/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +472,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/samueeelsiu/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/samueeelsiu/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samueeelsiu/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/samueeelsiu/LeetCode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 ## Bidirectional Search
@@ -566,4 +570,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/samueeelsiu/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/samueeelsiu/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
